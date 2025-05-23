@@ -1,5 +1,4 @@
-<h1 align="center">Yuri</h1>
-<h3 align="center"Java Developer</h3>
+<h1 align="center">Java Developer</h1>
 
 <p align="left">
 </p>
